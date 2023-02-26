@@ -1,0 +1,9 @@
+.pixel {
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid #999;
+  border-radius: 2px;
+}
+.pixel:hover {
+  cursor: pointer;
+}

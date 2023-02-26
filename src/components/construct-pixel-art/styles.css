@@ -1,0 +1,33 @@
+.constructPixelArtContainer {
+  padding: 3rem;
+  position: relative;
+}
+.colorButton {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 8px;
+  transition: 0.3s;
+  border: 1px solid #999;
+}
+.colorButton:hover {
+  filter: brightness(60%);
+  cursor: pointer;
+}
+
+.sizeContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.selectSize {
+  margin: 8px;
+  padding: 8px;
+}
+
+.colorContainer {
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
