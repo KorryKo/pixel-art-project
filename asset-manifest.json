@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pixel-art-project/static/css/main.f2a104e3.css",
+    "main.js": "/pixel-art-project/static/js/main.271def72.js",
+    "static/js/496.fbea8424.chunk.js": "/pixel-art-project/static/js/496.fbea8424.chunk.js",
+    "static/media/cloud.png": "/pixel-art-project/static/media/cloud.82b0802a3b7dea6d10c0.png",
+    "index.html": "/pixel-art-project/index.html",
+    "main.f2a104e3.css.map": "/pixel-art-project/static/css/main.f2a104e3.css.map",
+    "main.271def72.js.map": "/pixel-art-project/static/js/main.271def72.js.map",
+    "496.fbea8424.chunk.js.map": "/pixel-art-project/static/js/496.fbea8424.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2a104e3.css",
+    "static/js/main.271def72.js"
+  ]
+}
